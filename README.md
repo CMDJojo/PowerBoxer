@@ -24,7 +24,7 @@ Enter the puzzle, row by row, using these characters:
 
 ### Example
 
-![Example](example.png)
+![Example](example.png)  
 This puzzle can be entered as
 
 ```
